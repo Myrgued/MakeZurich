@@ -1,2 +1,2 @@
 # MakeZurich
-Stuff and documentary of MakeZurich Feb 2017
+Stuff and documentary of MakeZurich 2017
